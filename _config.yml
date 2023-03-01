@@ -2,7 +2,7 @@ lang: zh_CN
 # theme: jekyll-theme-architect
 theme: jekyll-theme-leap-day
 title: go
-description: gogo
+description: go description
 show_downloads: false
 github:
   is_project_page: false
